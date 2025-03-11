@@ -42,4 +42,14 @@ cd AnimationShowCase
 
 3. Install dependencies:
 ```bash
- 
+nox install
+```
+
+ 4. Run the project:
+ ```bash
+ react-native run-android # or react-native run-ios
+ ```
+
+ ## Contributing
+Contributions are welcome! If you'd like to add new sample projects or improve existing ones, feel free to open a pull request.
+
