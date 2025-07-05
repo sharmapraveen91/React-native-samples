@@ -42,7 +42,7 @@ cd AnimationShowCase
 
 3. Install dependencies:
 ```bash
-nox install
+npx install
 ```
 
  4. Run the project:
